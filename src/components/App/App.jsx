@@ -1,4 +1,4 @@
-import React, { Component } from 'react';g
+import React, { Component } from 'react';
 import { Container } from './App.styled.js';
 import { FeedbackOptions } from '../FeedbackSet/FeedbackOptions';
 import { Notification } from '../Notification/Notification';
