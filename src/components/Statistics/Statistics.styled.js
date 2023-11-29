@@ -2,6 +2,8 @@ import styled from 'styled-components';
 
 export const Option = styled.li`
   margin: 10px 0;
+  list-style: none;
+  width: 320px;
 `;
 
 export const Text = styled.p`

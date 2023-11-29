@@ -7,7 +7,7 @@ export const SettingsList = styled.ul`
 
 export const SettingsEl = styled.li`
   display: inline-block;
-  margin: 20px;
+  margin: 30px;
 `;
 
 export const SettingsButton = styled.button`
